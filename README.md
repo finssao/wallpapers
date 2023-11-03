@@ -1,2 +1,2 @@
 # wallpapers
-repo de fonc d'ecrans
+repo de fond d'ecrans
